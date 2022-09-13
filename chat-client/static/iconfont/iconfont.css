@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 3591935 */
+  src: url('https://at.alicdn.com/t/c/font_3591935_ew5g7kq6fpq.ttf?t=1662701068647') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-saying:before {
+  content: "\e62f";
+}
+
+.icon-aixin1:before {
+  content: "\eca1";
+}
+
+.icon-aixin:before {
+  content: "\e8c3";
+}
+
+.icon-jianpan:before {
+  content: "\e6d8";
+}
+
+.icon-yuyin:before {
+  content: "\e68d";
+}
+
+.icon-xiaolian:before {
+  content: "\ec80";
+}
+
+.icon-pengyouquan:before {
+  content: "\e667";
+}
+
+.icon-jiahao:before {
+  content: "\e726";
+}
+
+.icon-liaotian_jihuo:before {
+  content: "\e63f";
+}
+
+.icon-saoyisao:before {
+  content: "\e66f";
+}
+
+.icon-tianjiahaoyou:before {
+  content: "\e6da";
+}
+
+.icon-shoufukuan:before {
+  content: "\e647";
+}
+
+.icon-sousuo:before {
+  content: "\e651";
+}
+
